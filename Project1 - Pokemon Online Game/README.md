@@ -10,15 +10,3 @@ She wants you to program a prototype version of the game, and analyze the planne
 
 --- 
 
-## Directions
-
-Follow the question prompts and use base Python to create data stuctures and functions for the Pokemon Stay game.
-
-When you've built the game components and loaded supplementary data, use statistics and probability to describe and refine the gameplay.
-
-We will be looking for the following things:
-
-- For coding questions, Python code that gives the correct output for each question
-- For written questions, clear answers in Markdown cells
-
----
